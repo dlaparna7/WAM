@@ -18,7 +18,7 @@ New in Cycle 7:
   - upgrade to modern Fortran 2008 MPI module mpi_f08
   - bug fix of uninitialised value in data assimilation routine
 
-################################################################################
+#################################################################################
 ## License
 
 WAM is free software: you can redistribute it and/or modify it under the terms 
